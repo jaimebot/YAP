@@ -52,21 +52,21 @@ h4{
 a:link {
   color: #2D2E2E;
   background-color: #DAFEEA;
-  text-decoration: underline;
+  text-decoration: none;
   line-height: 21px;
 }
 
 a:visited {
   color: 	#2D2E2E;
   background-color: #DAFEEA;
-  text-decoration: underline;
+  text-decoration: none;
   line-height: 21px;
 }
 
 a:hover {
   color: #2D2E2E;
   background-color: #2D2E2E;
-  text-decoration: underline;
+  text-decoration: none;
   line-height: 21px;
 }
 
